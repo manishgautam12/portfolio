@@ -25,7 +25,7 @@ function Projects() {
               title="Netflix Clone"
               description="This is a clone of Netflix which have been made using HTML, CSS , React js, Bootstrap, where you watch the trailers of latest upcoming shows and movies."
               ghLink="https://github.com/manishgautam12/netflix-clone/tree/main/frontend"
-              // demoLink=""
+              demoLink="https://netflix-clone-iota-gules.vercel.app/"
             />
           </Col>
 
