@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import sortVisu from "../../Assets/Projects/sortVisu.png";
 import netflix from "../../Assets/Projects/netflix.png";
+import chatApp from "../../Assets/Projects/chatApp.png"
 import memoriesApp from "../../Assets/Projects/memoriesApp.png";
 
 function Projects() {
@@ -36,6 +37,16 @@ function Projects() {
               title="memoriesApp"
               description="it's a memories app like instagram..you are deployed your post on this app and like and comment and delete post functionality is also availble."
               ghLink="https://github.com/manishgautam12/memoriesApp"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatApp}
+              isBlog={false}
+              title="chatApp"
+              description="Designed and implemented a real-time chat application using Node.js, WebSockets, and React. Implemented server-side logic to handle user authentication, message delivery, and connection management."
+              ghLink="https://github.com/manishgautam12/chatApp"
+              demoLink="https://chat-app-bz22.vercel.app/"
             />
           </Col>
 
