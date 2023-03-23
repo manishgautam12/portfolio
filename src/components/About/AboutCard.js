@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Manish Gautam </span>
             from <span className="purple"> Firozabad(U.P), India.</span>
-            <br />I am pursuing BTech in Computer Science And Engineering from Dr. Ambedkar Institute of Technology for Handicapped kanpur. I have done a 3 month internship in<span className="purple"> NGO Asha Welfare Society and associated company HooGaaa</span> as a Backend Developer
+            <br />I am pursuing BTech in Computer Science And Engineering from Dr. Ambedkar Institute of Technology for Handicapped kanpur. I have done a 4 month internship in<span className="purple"> NGO Asha Welfare Society and associated company HooGaaa</span> as a Backend Developer
             <br />
             <br />
             <br />
